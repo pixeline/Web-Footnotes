@@ -1,0 +1,17 @@
+{
+	"name": "pixeline/web-footnotes",
+	"description": "Implements footnotes for web pages.",
+	"keywords": ["wordpress", "plugin", "pixeline", "footnotes"],
+	"homepage": "https://pixeline.be",
+	"license": "MIT",
+	"authors": [{
+		"name": "Alexandre Plennevaux",
+		"email": "alexandre@pixeline.be",
+		"homepage": "https://pixeline.be"
+	}],
+	"type": "wordpress-plugin",
+	"require": {
+	    "php": ">=5.6.0",
+		"composer/installers": "v1.0.6"
+	}
+}
